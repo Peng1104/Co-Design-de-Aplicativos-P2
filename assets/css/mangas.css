@@ -27,7 +27,7 @@ justify-content:  space-around;
 
 }
 .categoria{
-	text-align: center;
+	padding-left:28rem; 
 	font-size: 1.5rem;
 }
 .item{
@@ -35,7 +35,9 @@ justify-content:  space-around;
 }
 
 .box{		
-
+  display: flex;
+  align-items:  center;
+  justify-content:  space-between;
   margin: 0 auto; 
   width: 80%;  
   border-radius: 1rem;
@@ -44,16 +46,18 @@ justify-content:  space-around;
   
 }
 .seta{
-  display: flex;
-  justify-content: flex-end;
+  padding-right: 1rem;
 }
 
 .pesquisa{
-  padding: 0.5rem;
+  padding-left: 0.5rem;
   font-size: 1.5rem;
 }
 
 .box_pesquisa{   
+  display: flex;
+  align-items:  center;
+  justify-content:  space-between;
   margin: 0 auto; 
   width: 80%;  
   border-radius: 1rem;
