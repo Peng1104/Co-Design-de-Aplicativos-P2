@@ -1,0 +1,102 @@
+.menu{
+  margin-top: -4rem;
+  width: 3rem;
+  height: 3rem;
+  position:absolute;
+  left:90%;
+}
+.pessoas{
+  margin-top: 2rem;
+  width: 100%;
+  display: flex;
+  align-items:  center;
+  justify-content:center;
+
+}
+
+.pessoa{
+  width: 5.5rem;
+  height: 5.5rem;
+  padding: 0.5rem;
+  margin-left:1rem; 
+  margin-right:1rem; 
+  border-radius: 4rem;
+  border-style: solid;
+  border-width: 0.1rem;
+
+}
+.texto1{
+  font-size: 3rem;
+  margin-left: 8rem;
+  margin-top: 2rem;
+}
+.box_postar{
+  margin: 0 auto;
+  margin-top: 3rem; 
+  width: 80%; 
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.1rem;
+
+}
+.postar{
+  font-size: 3rem;
+  padding: 1rem;
+}
+
+.box{
+  margin: 0 auto;
+  margin-top: 2rem;
+  padding:0.3rem;
+  width: 80%;  
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.1rem;
+}
+
+.box2{
+  margin-top: 0.5rem; 
+  width: 100%; 
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.1rem;
+}
+
+.texto2{
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: center;
+  font-size: 3.5rem;
+  
+}
+.imagem_texto{
+  display: flex;
+  align-items:  center;
+  justify-content:  space-between;
+}
+
+.imagem{
+  width: 14rem;
+  height: 10rem;
+
+}
+
+.texto3{
+  margin-left: 3rem;
+  font-size: 2.5rem;
+  
+}
+
+.box3{
+  margin-top: 1rem; 
+  margin-bottom:0.3rem; 
+  width: 100%; 
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.1rem;
+
+}
+.texto4{
+  font-size: 3rem;
+  padding: 1rem;
+}

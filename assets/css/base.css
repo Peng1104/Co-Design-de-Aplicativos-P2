@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   border-bottom: solid;
-  border-width: 0.1rem;
+  border-width: 0.2rem;
 }
 
 .header-items {
@@ -35,4 +35,9 @@ justify-content:  space-around;
   justify-content: center;
   font-size: 4.5rem;
   color: black;
+}
+
+a{
+  text-decoration: none;
+  color: black
 }
