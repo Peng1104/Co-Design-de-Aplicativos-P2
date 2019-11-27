@@ -1,10 +1,4 @@
-.menu{
-  margin-top: -4rem;
-  width: 3rem;
-  height: 3rem;
-  position:absolute;
-  left:90%;
-}
+
 .pessoas{
   margin-top: 2rem;
   width: 100%;
@@ -15,11 +9,11 @@
 }
 
 .pessoa{
-  width: 5.5rem;
-  height: 5.5rem;
+  width: 6rem;
+  height: 6rem;
   padding: 0.5rem;
-  margin-left:1rem; 
-  margin-right:1rem; 
+  margin-left:1.5rem; 
+  margin-right:1.5rem; 
   border-radius: 4rem;
   border-style: solid;
   border-width: 0.1rem;
@@ -27,28 +21,28 @@
 }
 .texto1{
   font-size: 3rem;
-  margin-left: 8rem;
+  margin-left: 5rem;
   margin-top: 2rem;
 }
 .box_postar{
   margin: 0 auto;
   margin-top: 3rem; 
-  width: 80%; 
+  width: 88%; 
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
 
 }
 .postar{
-  font-size: 3rem;
+  font-size: 3.5rem;
   padding: 1rem;
 }
 
 .box{
   margin: 0 auto;
-  margin-top: 2rem;
-  padding:0.3rem;
-  width: 80%;  
+  margin-top: 4rem;
+  padding:1rem;
+  width: 85%;  
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
@@ -56,7 +50,8 @@
 
 .box2{
   margin-top: 0.5rem; 
-  width: 100%; 
+  width: 100%;
+  height: 15rem; 
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
@@ -66,7 +61,7 @@
   margin-top: 0.5rem;
   display: flex;
   justify-content: center;
-  font-size: 3.5rem;
+  font-size: 4rem;
   
 }
 .imagem_texto{
@@ -76,19 +71,20 @@
 }
 
 .imagem{
-  width: 14rem;
+  width: 15rem;
   height: 10rem;
 
 }
 
 .texto3{
+  margin-top: 1rem;
   margin-left: 3rem;
-  font-size: 2.5rem;
+  font-size: 2.9rem;
   
 }
 
 .box3{
-  margin-top: 1rem; 
+  margin-top: 2rem; 
   margin-bottom:0.3rem; 
   width: 100%; 
   border-radius: 1rem;
@@ -97,6 +93,19 @@
 
 }
 .texto4{
-  font-size: 3rem;
+  font-size: 3.5rem;
   padding: 1rem;
+}
+
+.imagens{
+  margin-top: 12rem;
+  display: flex;
+  justify-content:space-between;
+
+}
+.imagem_baixo{
+  padding: 1rem;
+   width: 9rem;
+    height:9rem;
+
 }
