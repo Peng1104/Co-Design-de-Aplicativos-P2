@@ -53,3 +53,7 @@ a{
   color: black;
   font-family:'Lato', sans-serif;
 }
+
+a:hover{
+  color:#1050d0 ;
+}
