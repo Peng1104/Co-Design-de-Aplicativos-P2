@@ -1,16 +1,25 @@
+body {
+  background-color: #b8e8ff;
+  color: #000000;
+}
+
+header{
+  background-color: #8f9bff;
+}
+
 .item{
 	margin-top:3rem;
   margin-bottom:1rem;
 }
 
 .amigos{		
-
   display: flex;
   align-items:  center;
   justify-content: center; 
   
 }
 .amigo{
+  background-color: #ffffff;
   margin-right:1.5rem;
   margin-left:1.5rem;
   padding: 1rem;

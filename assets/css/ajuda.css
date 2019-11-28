@@ -1,9 +1,19 @@
+body {
+  background-color: #b8e8ff;
+  color: #000000;
+}
+
+header{
+  background-color: #8f9bff;
+}
+
 .pesquisa{
   padding: 1rem;
   font-size: 3.5rem;
 }
 
-.box_pesquisa{   
+.box_pesquisa{
+  background-color: #ffffff;  
   display: flex;
   align-items:  center;
   justify-content:  space-between;
@@ -28,6 +38,7 @@
 }
 
 .item{
+  background-color: #ffffff;
   width: 70%;
   margin: 0 auto; 
   border-radius: 2rem;
@@ -38,6 +49,7 @@
 }
 
 .contatos{
+  background-color: #ffffff;
   width: 37%;
   padding: 1rem;
   margin-top:3rem;
@@ -47,10 +59,13 @@
 
 }
 .texto3{
+  background-color: #ffffff;
+
   font-size: 2.5rem;
 }
 
 .texto4{
+  background-color: #ffffff;
   margin-top: 0.5rem;
   font-size: 2rem;
 }

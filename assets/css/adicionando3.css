@@ -1,10 +1,18 @@
+body {
+  background-color: #b8e8ff;
+  color: #000000;
+}
 
+header{
+  background-color: #8f9bff;
+}
 
 .texto1{
 	font-size: 3rem;
 }
 
 .box{
+  background-color: #ffffff;
   margin: 0 auto; 
   width: 70%;  
   height: 15rem;
@@ -22,6 +30,7 @@
 }
 
 .opcoes {
+  background-color: #ffffff;
   margin-top: 2rem;  
   width: 100%;
   display: flex;

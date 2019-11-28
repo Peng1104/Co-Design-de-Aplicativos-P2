@@ -1,3 +1,7 @@
+body {
+  background-color: #b8e8ff;
+  color: #000000;
+}
 
 .menu{
   margin-top: -4rem;
@@ -7,6 +11,7 @@
   left:90%;
 }
 .foto_dave{
+  background-color: #b8e8ff;
   margin: 0 auto;
   margin-top: 6rem;
   display: flex;
@@ -14,6 +19,7 @@
   justify-content: center;
   width: 20rem;
   height: 20rem;
+
 
 }
 .titulo{
@@ -45,6 +51,7 @@ hr {
 
 }
 .pagina{
+  background-color: #8f9bff;
   padding: 2rem;
   border-bottom: solid;
   border-width: 0.2rem;

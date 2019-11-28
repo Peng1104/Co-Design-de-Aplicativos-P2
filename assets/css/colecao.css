@@ -1,3 +1,11 @@
+body {
+  background-color: #b8e8ff;
+  color: #000000;
+}
+
+header{
+  background-color: #8f9bff;
+}
 
 .boxes{
 
@@ -56,7 +64,8 @@ hr {
 .seta_baixo{
   padding:0.5rem;
 }
-.box_exibir{   
+.box_exibir{  
+  background-color: #ffffff; 
   display: flex;
   align-items:  center;
   justify-content:  space-between;

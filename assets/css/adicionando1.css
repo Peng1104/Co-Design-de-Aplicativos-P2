@@ -1,4 +1,13 @@
 
+body {
+  background-color: #b8e8ff;
+  color: #000000;
+}
+
+header{
+  background-color: #8f9bff;
+}
+
 
 .texto1{
   display: flex;
@@ -9,6 +18,7 @@
 }
 
 .centro{
+  background-color: #ffffff;
   margin: 0 auto; 
   margin-bottom: 3rem;
 	width: 50rem;  
