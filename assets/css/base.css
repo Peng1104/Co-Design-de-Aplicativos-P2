@@ -8,8 +8,8 @@ header {
 
 body{
   background-color: #b8e8ff;
-  color: #000000;
-  font-family:  'Lato', sans-serif;
+  color: #002b57;
+  font-family: 'Lato', sans-serif;
 }
 
 hr {
@@ -37,14 +37,14 @@ justify-content: space-around;
 
 .titulo{
   display: flex;
-  align-items:  center;
+  align-items: center;
   justify-content: center;
+  color: #002b57;
   margin-top:3rem;
   font-size: 4.5rem;
   font-family:'IM Fell English', serif;
   font-weight: bold;
 }
-
 
 a{
   text-decoration: none;
