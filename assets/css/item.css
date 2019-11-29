@@ -1,32 +1,27 @@
-
-.texto1{
+.texto1 {
 	font-size: 3.5rem;
 }
 
-.carrossel{
+.carrossel {
 	display: flex;
   align-items:  center;
   justify-content:center;
   margin-bottom: 2rem;
 }
 
-.capa{
+.capa {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
-
 
 .caracteristica {
   margin-left: 1rem;
   margin-top: 0.5rem;
   font-size: 2rem;
-
 }
 
-
-.texto2{
+.texto2 {
   margin-top: 4rem;
   font-size: 3.5rem;
   font-weight: bold;
@@ -40,11 +35,9 @@
   display: flex;
   align-items: center;
   justify-content:center;
-
-
 }
 
-.check{
+.check {
   margin-left: 2rem;
   margin-right: 2rem;
   display: flex;
@@ -52,18 +45,16 @@
   justify-content: center;
   border-style: solid;
   border-width: 0.1rem;
-
 }
 
-.texto3{
+.texto3 {
   display: flex;
   align-items:  center;
   justify-content: center;
   font-size: 2rem;
-
 }
 
-.texto4{
+.texto4 {
   margin-top: 2rem;
   display: flex;
   align-items:  center;
@@ -72,13 +63,13 @@
   color:red;
 }
 
-.privacidade{
-
+.privacidade {
   margin:2rem;
   display:flex;
   justify-content:flex-end; 
 }
-.lista_privacidade{
+
+.lista_privacidade {
   width: 70%;
   height: 4.5rem;
   display: flex;
@@ -86,38 +77,32 @@
   justify-content: space-between;
   border-style: solid;
   border-width: 0.1rem;
-
 }
 
-.item_privacidade{
+.item_privacidade {
   margin-left: 1rem;
   margin-right: 1rem;
-  
 }
 
-.seta_baixo{
+.seta_baixo {
     max-width:1.8rem;
     max-height:1.8rem;
     width: auto;
     height: auto;
 }
 
-.texto6{
+.texto6 {
   font-size: 2.5rem;
-   
-
 }
-.texto5{
+
+.texto5 {
   width: 25%;
   display: flex;
   align-items:  center;
   justify-content: center;
   margin-right:1rem; 
   font-size: 2.5rem;
-   
-
 }
-
 
 /*HOVER*/
   .sidebar {
@@ -132,10 +117,12 @@
 
 
   }
+  
   .sidebar-list{
     width: 100%;
     margin: 0 auto;
   }
+
   .sidebar-item{
     background-color: white;
     margin: 1rem 0;
@@ -144,6 +131,7 @@
     width: 100%;
     height: 10rem;
   }
+
   .sidebar-link {
     display: flex;
     justify-content: center;
@@ -154,10 +142,12 @@
     text-decoration: none;
     color:black;
   }
+
   .menu-image:hover + .sidebar{
     top: 0%;
     transition: all 2s;
   }
+
   .sidebar:hover {
     top: 0%;
     transition: all 2s;

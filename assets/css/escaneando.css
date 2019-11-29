@@ -1,5 +1,5 @@
 body {
-  background-color:black; 
+  background-color:black;
 } 
 
 hr{
@@ -7,12 +7,13 @@ hr{
   border: 0;
   border-top: 0.2rem solid white;
 }
-.texto1{
+
+.texto1 {
 	font-size: 3rem;
 	color: white;
 }
 
-.centro{
+.centro {
   margin: 0 auto; 
   margin-top: 10rem;
   margin-bottom: 5rem;
@@ -24,11 +25,12 @@ hr{
   background-color: white;
 }
 
-.barras{
+.barras {
   width: 50.5rem;  
   height: 40rem;
   margin-top:2rem;   
 }
+
 .texto {
 	display: flex;
   align-items:  center;

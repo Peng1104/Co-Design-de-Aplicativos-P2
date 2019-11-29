@@ -1,15 +1,4 @@
-
-body {
-  background-color: #b8e8ff;
-  color: #000000;
-}
-
-header{
-  background-color: #8f9bff;
-}
-
-
-.texto1{
+.texto1 {
   display: flex;
   justify-content:center;
 	font-size: 4rem;
@@ -17,7 +6,7 @@ header{
   margin-bottom: 3rem;
 }
 
-.centro{
+.centro {
   background-color: #ffffff;
   margin: 0 auto; 
   margin-bottom: 3rem;
@@ -28,11 +17,12 @@ header{
   border-width: 0.1rem;
 }
 
-.barras{
+.barras {
   width: 45rem;  
   height: 40rem;
   margin: 2.5rem;  
 }
+
 .texto2 {
   display: flex;
   align-items:  center;

@@ -1,4 +1,10 @@
+header {
+  background-color: #8f9bff;
+}
+
 body{
+  background-color: #b8e8ff;
+  color: #000000;
   font-family:  'Lato', sans-serif;  
 }
 

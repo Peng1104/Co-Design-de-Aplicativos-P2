@@ -1,17 +1,8 @@
-body {
-  background-color: #b8e8ff;
-  color: #000000;
-}
-
-header{
-  background-color: #8f9bff;
-}
-
 .texto1{
 	font-size: 3rem;
 }
 
-.box{
+.box {
   background-color: #ffffff;
   margin: 0 auto; 
   width: 70%;  
@@ -22,7 +13,7 @@ header{
   margin-top: 30rem;
 }
 
-.texto2{
+.texto2 {
   display: flex;
   justify-content:center;
   margin-top: 1rem;
@@ -47,5 +38,4 @@ header{
   border-style: solid;
   border-width: 0.1rem;
   border-radius: 1rem;
-
 }

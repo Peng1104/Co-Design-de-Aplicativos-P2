@@ -1,19 +1,18 @@
-
-.boxes{
-
+.boxes {
 	margin-top: 2rem;
 	width: 100%;
-
 }
-.categoria{
+
+.categoria {
 	padding-left:16.5rem; 
 	font-size: 3rem;
 }
-.item{
+
+.item {
 	padding:2rem;
 }
 
-.box{		
+.box {		
   display: flex;
   align-items:  center;
   justify-content:  space-between;
@@ -23,22 +22,23 @@
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
-  
 }
-.seta{
+
+.seta {
   padding-right: 1rem;
 }
 
-.pesquisa{
+.pesquisa {
   padding: 1rem;
   font-size: 3rem;
 }
-.imagem_pesquisa{
+
+.imagem_pesquisa {
   width: 5.5rem;
   height: 5.5rem;
 }
 
-.box_pesquisa{   
+.box_pesquisa {   
   display: flex;
   align-items:  center;
   justify-content:  space-between;
@@ -47,10 +47,9 @@
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
-  
 }
 
-.texto2{
+.texto2 {
   margin-top: 1rem;
   font-size: 4rem;
   text-align: center;
