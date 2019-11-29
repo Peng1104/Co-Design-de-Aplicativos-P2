@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .boxes{
 
@@ -74,4 +75,80 @@ hr {
   margin-bottom: 2rem;
   font-size: 3rem;
   text-align: center;
+=======
+.boxes {
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.edicao {
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+.possui {
+  padding: 1rem;
+  font-size: 2.5rem;
+  color: green;
+}
+
+.nao_possui {
+  padding: 1rem;
+  font-size: 2.5rem;
+  color: red;
+}
+
+.item {
+  padding-top:0.5rem;
+  padding-bottom:0.5rem;
+}
+
+hr {
+  width: 100%;
+  border: 0;
+  border-top: 0.2rem solid black;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 1rem;
+  width: 100%;
+  height: 6rem;
+}
+
+.seta {
+  padding-right: 1rem;
+}
+
+.exibir {
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+.seta_baixo {
+  padding:0.5rem;
+}
+
+.box_exibir {
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  width: 80%;
+  height: 5rem;
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.2rem;
+}
+
+.texto2 {
+  margin-bottom: 2rem;
+  font-size: 3rem;
+  text-align: center;
+>>>>>>> 1f0c8bb847d0fb2204ad8ba2dcd1da73aec78101
 }

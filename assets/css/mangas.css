@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .boxes{
 
@@ -54,4 +55,64 @@
   margin-top: 1rem;
   font-size: 4rem;
   text-align: center;
+=======
+.boxes {
+  margin-top: 2rem;
+  width: 100%;
+
+}
+
+.categoria {
+  padding-left: 16.5rem;
+  font-size: 3rem;
+}
+
+.item {
+  padding: 2rem;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
+  height: 8rem;
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.1rem;
+  background-color: white
+}
+
+.seta {
+  padding-right: 1rem;
+}
+
+.pesquisa {
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+.imagem_pesquisa {
+  width: 5.5rem;
+  height: 5.5rem;
+}
+
+.box_pesquisa {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.1rem;
+  background-color: white
+}
+
+.texto2 {
+  margin-top: 1rem;
+  font-size: 4rem;
+  text-align: center;
+>>>>>>> 1f0c8bb847d0fb2204ad8ba2dcd1da73aec78101
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .categoria{
 	padding-left:28rem; 
@@ -77,3 +78,80 @@
 
 }
 
+=======
+.categoria {
+	padding-left: 28rem;
+	font-size: 1.5rem;
+}
+
+.livros {
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  border-radius:1rem;
+  border-width: 0.1rem;
+  margin: 1rem;
+
+}
+
+.capa {
+  padding: 1rem;
+  width: 13rem;
+  height: 14rem;
+}
+
+.pesquisa {
+  padding: 1rem;
+  font-size: 2.5rem;
+}
+
+.box_pesquisa {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  width: 80%;
+  border-radius: 1rem;
+  border-style: solid;
+  border-width: 0.1rem;
+  background-color: white;
+}
+
+.texto1 {
+  font-size: 3rem;
+}
+
+.texto2 {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  font-size: 3rem;
+  text-align: center;
+  justify-content: flex-start;
+}
+
+.livro {
+  display:flex;
+  justify-content:space-between;
+  margin: 0 auto;
+  margin-top: 2rem;
+  border-style: solid;
+  border-radius: 1rem;
+  border-width: 0.1rem;
+  width: 85%;
+  background-color: white;
+}
+
+.caracteristicas_livro {
+  padding:1rem;
+  width:65%;
+  justify-content: center;
+  align-items: center;
+}
+
+.caracteristica {
+  margin-top: 0.5rem;
+  align-items: center;
+}
+>>>>>>> 1f0c8bb847d0fb2204ad8ba2dcd1da73aec78101
