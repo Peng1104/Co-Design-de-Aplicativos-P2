@@ -1,23 +1,22 @@
 body {
-  background-color:black;
-}
+  background-color:black; 
+} 
 
-hr {
+hr{
   width: 100%;
   border: 0;
   border-top: 0.2rem solid white;
 }
-
-.texto1 {
+.texto1{
 	font-size: 3rem;
 	color: white;
 }
 
-.centro {
-  margin: 0 auto;
+.centro{
+  margin: 0 auto; 
   margin-top: 10rem;
   margin-bottom: 5rem;
-  width: 50rem;
+  width: 50rem;  
   height: 45rem;
   border-radius: 11rem;
   border-style: solid;
@@ -25,12 +24,11 @@ hr {
   background-color: white;
 }
 
-.barras {
-  width: 50.5rem;
+.barras{
+  width: 50.5rem;  
   height: 40rem;
-  margin-top:2rem;
+  margin-top:2rem;   
 }
-
 .texto {
 	display: flex;
   align-items:  center;

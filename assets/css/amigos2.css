@@ -1,40 +1,42 @@
-.item {
-	margin-top: 3rem;
-  margin-bottom: 1rem;
+.item{
+	margin-top:3rem;
+  margin-bottom:1rem;
 }
 
-.amigos {
+.amigos{		
+
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items:  center;
+  justify-content: center; 
+  
 }
-
-.amigo {
-  background-color: #ffffff;
-  margin-right: 1.5rem;
-  margin-left: 1.5rem;
+.amigo{
+  margin-right:1.5rem;
+  margin-left:1.5rem;
   padding: 1rem;
   width: 10rem;
-  height: 10rem;
+  height: 10rem;  
   border-style: solid;
   border-width: 0.2rem;
 }
 
-.nome_amigo {
+.nome_amigo{
   margin-left: 4.5rem;
   margin-right: 4.5rem;
   font-size: 2rem;
+
 }
 
-.texto {
+.texto{
+
   margin: 0 auto;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-top: 1rem; 
+  margin-bottom: 2rem; 
   font-size: 4.5rem;
   text-align: center;
 }
 
-.ultimo-item {
-  margin-top: 3rem;
-  margin-bottom: 10rem;
+.ultimo-item{
+  margin-top:3rem;
+  margin-bottom:10rem;
 }

@@ -3,59 +3,54 @@
   font-size: 3.5rem;
 }
 
-.box_pesquisa {
-  background-color: #ffffff;
+.box_pesquisa{   
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  align-items:  center;
+  justify-content:  space-between;
   margin: 0 auto; 
   margin-top: 3rem;
-  width: 70%;
+  width: 70%;  
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
+  
 }
 
-.texto {
+.texto{
   margin-top: 4rem;
   margin-bottom:1rem;
   font-size: 3rem;
   text-align: center;
 }
-
-.texto2 {
+.texto2{
   padding:0.5rem;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
-.item {
-  background-color: #ffffff;
+.item{
   width: 70%;
-  margin: 0 auto;
+  margin: 0 auto; 
   border-radius: 2rem;
   border-style: solid;
   border-width: 0.1rem;
-  padding:1rem;
+  padding:0.5rem;
   margin-top: 1.5rem;
 }
 
-.contatos {
-  background-color: #ffffff;
+.contatos{
   width: 37%;
   padding: 1rem;
   margin-top:3rem;
   margin-left: 3rem;
   border-style: solid;
   border-width: 0.1rem;
-}
 
-.texto3 {
-  background-color: #ffffff;
+}
+.texto3{
   font-size: 2.5rem;
 }
 
-.texto4 {
-  background-color: #ffffff;
+.texto4{
   margin-top: 0.5rem;
   font-size: 2rem;
 }
