@@ -1,3 +1,22 @@
+.header-items {
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: flex-end;
+}
+
+.imagem_menu{
+  margin-left: 6rem;
+  margin-right: 2rem;
+  width: 6rem;
+  height: 6rem;
+}
+
+.logo{
+  width: 20rem;
+  margin-right: 6rem;
+  height: 7.5rem;
+}
 .pessoas {
   margin-top: 2rem;
   width: 100%;
