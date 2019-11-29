@@ -1,111 +1,112 @@
-
-.pessoas{
+.pessoas {
   margin-top: 2rem;
   width: 100%;
   display: flex;
-  align-items:  center;
-  justify-content:center;
-
+  align-items: center;
+  justify-content: center;
 }
 
-.pessoa{
+.pessoa {
+  background-color: #ffffff;
   width: 6rem;
   height: 6rem;
   padding: 0.5rem;
-  margin-left:1.5rem; 
-  margin-right:1.5rem; 
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
   border-radius: 4rem;
   border-style: solid;
   border-width: 0.1rem;
-
 }
-.texto1{
+
+.texto1 {
   font-size: 3rem;
   margin-left: 5rem;
   margin-top: 2rem;
 }
-.box_postar{
+
+.box_postar {
+  background-color: #ffffff;
   margin: 0 auto;
-  margin-top: 3rem; 
+  margin-top: 3rem;
   width: 88%; 
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
-
 }
-.postar{
+
+.postar {
   font-size: 3.5rem;
   padding: 1rem;
 }
 
-.box{
+.box {
+  background-color: #002b57;
   margin: 0 auto;
   margin-top: 4rem;
   padding:1rem;
-  width: 85%;  
+  width: 85%;
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
 }
 
-.box2{
-  margin-top: 0.5rem; 
+.box2 {
+  background-color: #ffffff;
+  margin-top: 0.5rem;
   width: 100%;
-  height: 15rem; 
+  height: 15rem;
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
 }
 
-.texto2{
+.texto2 {
   margin-top: 0.5rem;
   display: flex;
   justify-content: center;
   font-size: 4rem;
-  
-}
-.imagem_texto{
-  display: flex;
-  align-items:  center;
-  justify-content:  space-between;
 }
 
-.imagem{
+.imagem_texto {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.imagem {
   width: 15rem;
   height: 10rem;
-
 }
 
-.texto3{
+.texto3 {
   margin-top: 1rem;
   margin-left: 3rem;
   font-size: 2.9rem;
-  
 }
 
-.box3{
-  margin-top: 2rem; 
-  margin-bottom:0.3rem; 
-  width: 100%; 
+.box3 {
+  margin-top: 2rem;
+  margin-bottom: 0.3rem;
+  width: 100%;
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
-
 }
-.texto4{
+
+.texto4 {
+  background-color: #ffffff;
   font-size: 3.5rem;
   padding: 1rem;
 }
 
-.imagens{
-  margin-top: 12rem;
+.imagens {
+  margin-top: 10rem;
   display: flex;
   justify-content:space-between;
-
 }
-.imagem_baixo{
-  padding: 1rem;
-   width: 9rem;
-    height:9rem;
 
+.imagem_baixo {
+  padding: 1rem;
+  width: 9rem;
+  height:9rem;
 }
