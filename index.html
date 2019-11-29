@@ -1,73 +1,50 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="pt-br">
+<head>
+  <title>Index</title>
+  <link href="assets/css/reset.css" rel="stylesheet">
+  <link href="assets/css/base.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=IM+Fell+English&display=swap" rel="stylesheet">
+  <link href="assets/css/index.css" rel="stylesheet">
+  <meta charset="utf-8">
+</head>
+<header class="header">
+    <ul class="header-items">
+      <li><a href="index.html"><img class= "logo" src="assets/img/logo.png" alt="logo"> </a></li>        
+      <li><a href="menu.html"><img class= "imagem_menu" src="assets/img/menu.png" alt="menu"></a></li>
+    </ul>
+</header>
+<body>
+  <p class="texto1"> "stories:"</p>
+  <ul class="pessoas">
+   <li><img class="pessoa" src="assets/img/pessoinha1.png" alt="pessoa1"></li>
+   <li><img class="pessoa" src="assets/img/pessoinha2.png" alt="pessoa2"></li>
+   <li><img class="pessoa" src="assets/img/pessoinha3.png" alt="pessoa3"></li>
+   <li><img class="pessoa" src="assets/img/pessoinha4.png" alt="pessoa4"></li>
+   <li><img class="pessoa" src="assets/img/pessoinha5.png" alt="pessoa5"></li>
+  </ul> 
+  <p class="titulo">Pagina Inicial</p>
+  <div class="box_postar">
+    <p class="postar"> Postar Algo</p>
+  </div>  
 
-  <head>
-    <title>Portfólio</title>
-    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet">
-    <link href="assets/css/reset.css" rel="stylesheet">
-    <link href="assets/css/style_base.css" rel="Stylesheet">   
-    <link href="assets/css/style_index.css" rel="stylesheet">
-    <script src="assets/js/codes.js"></script>
-    <script src="assets/js/script_index.js"></script>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-  <body>
-    <div class="tela">
-      <div class="bloco1">
-        <header class = "header">
-          <a href="index.html">
-            <img class="img_menu" src="assets/img/header/menu.jpg" alt="Imagem para voltar ao index">
-          </a>
-          <div class = "container">
-            <img class="img_perfil" src="assets/img/header/perfil.jpg" alt="Imagem de Perfil">
-            <h1 class="name"> ienseS onulA</h1>
-          </div> 
-        </header>
-
-        <div class="subbloco1">
-          <h2 class="h2_b1">
-            QUEM SOU EU
-          </h2>
-          <p class="texto1">
-            Estes são os projetos que desenvolvi durante minha longa vida cheia de aventuras e peripécias
-          </p>
-        </div>
-
-        <figure class="subbloco2">
-          <img class="img_trabalho" src="assets/img/categoria/digital/portfolio.png" alt="Imagem do Portfólio">
-        </figure>
-      </div>
-
-      <div class="bloco2">
-        <h2 class="h2_b2">
-          Categorias
-        </h2>
-        {{#each this}}
-
-        <figure class = "projetos">
-          <a href="categoria.html?categoria={{@key}}">
-            <img class="image-categoria" src="assets/img/categoria/{{@key}}/categoria.png" alt="Imagem da Categorias">
-          </a>
-          <div class="box-categoria">
-            <h3 class="titulo-categoria">
-              {{@key}}
-            </h3>
-            <p class="texto-categoria">
-              {{this.categoria}}
-            </p>
-          </div>
-        </figure>
-
-        {{/each}}
-      </div>
-
-      <div class="contatos">
-        <p class="contatos_text">
-          | CONTATOS | email: askhdfasiubnfpas@gmail.com | telefone: (99)9999-9999 | endereço: rua sanbdasbçd, numero 999 | CEP: 754896547 |
-        </p>
-      </div>
+  <div class="box">
+    <div class="box2">
+      <p class="texto2"> OutroUsuário@Marvel</p>
+      <ul class="imagem_texto">
+        <img class= "imagem" src="assets/img/pessoinha2.png" alt="pessoa2">
+        <p class="texto3"> Tenho 2 cópias repetidas em minha coleção de Guerra Civil II</p>
+      </ul>  
     </div>
-  </body>
+    <div class="box3">
+      <p class="texto4"> Iniciar conversa</p>
+    </div>
+  </div>
+
+  <ul class="imagens">
+    <li><a href="escaneando.html"><img class="imagem_baixo" src="assets/img/verificar.png" alt="verificar"></a></li>
+    <li><a href="escaneando.html"><img class="imagem_baixo" src="assets/img/adicionar.png" alt="adicionar"></a></li>
+  </ul>
+</body>
 </html>
