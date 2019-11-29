@@ -1,11 +1,11 @@
 .boxes {
-	margin-top: 2rem;
-	width: 100%;
+  margin-top: 2rem;
+  width: 100%;
 }
 
 .edicao {
   padding: 1rem;
-	font-size: 3rem;
+  font-size: 3rem;
 }
 
 .possui {
@@ -21,7 +21,7 @@
 }
 
 .item {
-	padding-top:0.5rem;
+  padding-top:0.5rem;
   padding-bottom:0.5rem;
 }
 
@@ -31,13 +31,13 @@ hr {
   border-top: 0.2rem solid black;
 }
 
-.box {		
+.box {
   display: flex;
-  align-items:  center;
-  justify-content:  space-between;
-  margin: 0 auto; 
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
   margin-top: 1rem;
-  width: 100%;  
+  width: 100%;
   height: 6rem;
 }
 
@@ -54,14 +54,14 @@ hr {
   padding:0.5rem;
 }
 
-.box_exibir {  
-  background-color: #ffffff; 
+.box_exibir {
+  background-color: #ffffff;
   display: flex;
-  align-items:  center;
-  justify-content:  space-between;
-  margin: 0 auto; 
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
   margin-bottom: 4rem;
-  width: 80%;  
+  width: 80%;
   height: 5rem;
   border-radius: 1rem;
   border-style: solid;

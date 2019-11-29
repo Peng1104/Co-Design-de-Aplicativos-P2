@@ -1,21 +1,21 @@
 .boxes {
-	margin-top: 2rem;
-	width: 100%;
+  margin-top: 2rem;
+  width: 100%;
 }
 
 .categoria {
-	padding-left:28rem; 
-	font-size: 1.5rem;
+  padding-left: 28rem;
+  font-size: 1.5rem;
 }
 
 .item {
-	margin:1rem;
+  margin:1rem;
 }
 
 .livros {
   display: flex;
-  align-items:  center;
-  justify-content: center; 
+  align-items: center;
+  justify-content: center;
 }
 
 .capa {
@@ -29,12 +29,12 @@
   font-size: 2.5rem;
 }
 
-.box_pesquisa {   
+.box_pesquisa {
   display: flex;
-  align-items:  center;
-  margin: 0 auto; 
-  margin-bottom:3rem;
-  width: 80%;  
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+  width: 80%;
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
@@ -42,7 +42,7 @@
 
 .texto2 {
   display: flex;
-  margin-top: 1rem; 
+  margin-top: 1rem;
   margin-left: 1rem;
   font-size: 3rem;
   text-align: center;

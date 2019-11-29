@@ -3,18 +3,17 @@
   font-size: 3.5rem;
 }
 
-.box_pesquisa{
-  background-color: #ffffff;  
+.box_pesquisa {
+  background-color: #ffffff;
   display: flex;
-  align-items:  center;
-  justify-content:  space-between;
+  align-items: center;
+  justify-content: space-between;
   margin: 0 auto; 
   margin-top: 3rem;
-  width: 70%;  
+  width: 70%;
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
-  
 }
 
 .texto {
@@ -29,10 +28,10 @@
   font-size: 2.5rem;
 }
 
-.item{
+.item {
   background-color: #ffffff;
   width: 70%;
-  margin: 0 auto; 
+  margin: 0 auto;
   border-radius: 2rem;
   border-style: solid;
   border-width: 0.1rem;
@@ -40,7 +39,7 @@
   margin-top: 1.5rem;
 }
 
-.contatos{
+.contatos {
   background-color: #ffffff;
   width: 37%;
   padding: 1rem;
@@ -48,7 +47,6 @@
   margin-left: 3rem;
   border-style: solid;
   border-width: 0.1rem;
-
 }
 
 .texto3 {

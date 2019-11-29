@@ -18,7 +18,7 @@
 }
 
 .titulo {
-  margin-top:1.5rem;
+  margin-top: 1.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -37,11 +37,11 @@ hr {
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content:  space-around;
+  justify-content: space-around;
 }
 
 .caracteristica {
-  font-size:3rem;
+  font-size: 3rem;
 }
 
 .paginas {
@@ -53,5 +53,5 @@ hr {
   padding: 2rem;
   border-bottom: solid;
   border-width: 0.2rem;
-  font-size:3.5rem;
+  font-size: 3.5rem;
 }

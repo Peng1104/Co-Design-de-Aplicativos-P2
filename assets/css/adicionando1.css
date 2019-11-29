@@ -10,7 +10,7 @@
   background-color: #ffffff;
   margin: 0 auto; 
   margin-bottom: 3rem;
-	width: 50rem;  
+	width: 50rem;
 	height: 45rem;
 	border-radius: 11rem;
   border-style: solid;
@@ -18,14 +18,14 @@
 }
 
 .barras {
-  width: 45rem;  
+  width: 45rem;
   height: 40rem;
-  margin: 2.5rem;  
+  margin: 2.5rem;
 }
 
 .texto2 {
   display: flex;
-  align-items:  center;
+  align-items: center;
   justify-content: center;
 	font-size: 3.5rem;
 }

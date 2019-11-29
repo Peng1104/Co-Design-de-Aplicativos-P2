@@ -1,23 +1,23 @@
 .boxes {
-	margin-top: 2rem;
-	width: 100%;
+  margin-top: 2rem;
+  width: 100%;
 }
 
 .categoria {
-	padding-left:16.5rem; 
-	font-size: 3rem;
+  padding-left: 16.5rem;
+  font-size: 3rem;
 }
 
 .item {
-	padding:2rem;
+  padding: 2rem;
 }
 
-.box {		
+.box {
   display: flex;
-  align-items:  center;
-  justify-content:  space-between;
-  margin: 0 auto; 
-  width: 80%;  
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
   height: 8rem;
   border-radius: 1rem;
   border-style: solid;
@@ -38,12 +38,12 @@
   height: 5.5rem;
 }
 
-.box_pesquisa {   
+.box_pesquisa {
   display: flex;
-  align-items:  center;
-  justify-content:  space-between;
-  margin: 0 auto; 
-  width: 80%;  
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 80%;
   border-radius: 1rem;
   border-style: solid;
   border-width: 0.1rem;
